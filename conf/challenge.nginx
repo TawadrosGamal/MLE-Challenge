@@ -1,0 +1,9 @@
+server {
+    listen 7000;
+    client_max_body_size 1M;
+    access_log off;
+
+    location / {
+        # Proxy to application server
+    }
+}

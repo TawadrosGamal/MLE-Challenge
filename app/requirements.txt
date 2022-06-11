@@ -1,0 +1,8 @@
+flask==2.1.2
+imutils
+opencv
+pydub
+pdf2image
+nltk
+transformers
+torch
